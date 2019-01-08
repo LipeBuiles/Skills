@@ -9,7 +9,7 @@ body{
 .skills{
     color: #2980b9;
     margin: 60px auto;
-    width: 500px;
+    width: auto;
 }
 .skills h1{
     margin: 20px 0;
